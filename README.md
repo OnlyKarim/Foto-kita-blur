@@ -1,2 +1,2 @@
-# profile
+# Foto kita blur
 -
